@@ -176,3 +176,9 @@ footer a {
     margin: auto;
   }
 }
+@media (max-width: 600px){
+  .title-card {
+    margin-top: 100px;
+    
+  }
+}
